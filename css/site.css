@@ -48,6 +48,10 @@ body {
   background-color: transparent;
 }
 
+.idcard {
+  background-color: #282828;
+}
+
 .container {
   display: flex;
   justify-content: center;
